@@ -9,7 +9,7 @@ abstract public class Veiculo implements Cloneable {
         return this.IDVeiculo;
     }
 
-    public int getPrecoConstrucao(){
+    public int getPreco(){
         return this.precoConstrucao;
     }
 
